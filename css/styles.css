@@ -153,6 +153,7 @@ a img:hover{
 }
 
 #infospace{
+    overflow: scroll;
     background-color: #131313be;
     border-top: 2px solid #5DE6FF;
     border-bottom: 2px solid #5DE6FF;
